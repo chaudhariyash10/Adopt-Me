@@ -1,0 +1,27 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhariyash10/Intro-to-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaudhariyash10/Intro-to-React/issues"
+  },
+  "homepage": "https://github.com/chaudhariyash10/Intro-to-React#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "prettier": "^2.0.5"
+  } 
+}
