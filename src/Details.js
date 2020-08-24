@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Details = (props) => {
+const Details = () => {
     return (
-        <pre><code>{JSON.stringify(props,null,4)}</code></pre>
+        <h2>Routing Successful</h2>
     );
 };
 
