@@ -22,6 +22,10 @@
   "homepage": "https://github.com/chaudhariyash10/Intro-to-React#readme",
   "description": "",
   "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
     "@reach/router": "github:reach/router",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.2",
