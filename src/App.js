@@ -5,10 +5,10 @@ import { Router, Link } from "@reach/router";
 import Details from "./Details";
 import ThemeContext from "./ThemeContext";
 const App = () => {
-  const themeHook = useState("darkblue");
+  const themeHook = useState("peru");
   return (
     <React.StrictMode>
-      <ThemeContext.Provider value = {themeHook} >
+      <ThemeContext.Provider value={themeHook}>
       <div>
         <header>
           <Link to="/">Adopt Me!</Link>

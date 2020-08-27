@@ -1,8 +1,8 @@
 Arguments: 
-  F:\SetUp\node-v12.16.2-win-x64\node-v12.16.2-win-x64\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add babel-eslint @babel/core @babel/preset-env @babel/plugin-proposal-class-properties @babel/preset-reactv
+  F:\SetUp\node-v12.16.2-win-x64\node-v12.16.2-win-x64\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @e/undefined
 
 PATH: 
-  C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Users\Yash\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Yash\AppData\Local\Programs\Python\Python38-32\;C:\Users\Yash\AppData\Local\Microsoft\WindowsApps;C:\Users\Yash\AppData\Roaming\npm;F:\javascript\node-v12.16.2-win-x64\node-v12.16.2-win-x64;C:\Windows\System32\;F:\SetUp\node-v12.16.2-win-x64\node-v12.16.2-win-x64;C:\Users\Yash\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\Yash\AppData\Local\Yarn\bin
+  F:\SetUp\node-v12.16.2-win-x64\node-v12.16.2-win-x64\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin;D:\Frontend Masters\React\Intro-To-React V5\adopt-me\node_modules\.bin;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Users\Yash\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Yash\AppData\Local\Programs\Python\Python38-32\;C:\Users\Yash\AppData\Local\Microsoft\WindowsApps;C:\Users\Yash\AppData\Roaming\npm;F:\javascript\node-v12.16.2-win-x64\node-v12.16.2-win-x64;C:\Windows\System32\;F:\SetUp\node-v12.16.2-win-x64\node-v12.16.2-win-x64;C:\Users\Yash\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\Yash\AppData\Local\Yarn\bin
 
 Yarn version: 
   1.22.4
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@babel%2fpreset-reactv: Not found
+  Error: https://registry.npmjs.org/@e%2fundefined: Not found
       at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66096:18)
       at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140748:22)
       at Request.emit (events.js:310:20)
